@@ -11,5 +11,5 @@ print("TBC:", avr)
 print("Các tháng nhiều hơn TBC:")
 for i in range(0, 12):
     if money[i] > avr:
-        res = res + str(i) + " "
+        res = res + str(i + 1) + " "
 print(res)
