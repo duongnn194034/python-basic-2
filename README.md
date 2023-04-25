@@ -1,1 +1,1 @@
-Mid-Term = giữa kỳ
+Mid-Term = giữa kỳ (7/7)
